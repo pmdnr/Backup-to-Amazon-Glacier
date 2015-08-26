@@ -1,5 +1,5 @@
 # Backup-to-Amazon-Glacier</br>
-Store your Web Files and Database files to Amazon Glacier through this Shell and PHP Scripts.</br>
+Store your Web Files and Database files to Amazon Glacier through this Shell and PHP Scripts. These scripts will create Local Backup and Upload Zip files to Amazon Glacier. So <b>Double Backup</b> means more protection</br>
 Steps:</br>
 1. Create your backup folder</br>
   mkdir <b>/var/awsbackup</b></br>
