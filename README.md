@@ -8,6 +8,6 @@ Steps:</br>
 mkdir <b>/var/awsbackup/amazonaws</b></br>
 4. Extrace above aws.zip into <b>/var/awsbackup/amazonaws</b> folder.</br>
 5. Download <b>backupmysqlwww.sh</b> and <b>backuptoamazonglacier.php</b> files from here to <b>/var/awsbackup</b> folder.</br>
-6. Change above files according to your system and database details.</br></br>
+6. Change above files according to your system and database details. Replace every word start with <b>your</b> to your Settings.</br></br>
 
 <a href="http://wphost9.com">WP Host 9</a> is one of VPS Provides stores Web Data and Databases to Amazon Glacier.
